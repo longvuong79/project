@@ -42,7 +42,7 @@ void EmployeeInfo::Print(){
 int main(){
     
     EmployeeInfo person1;
-        person1.SetName("Long Nguyen");
+        person1.SetName("Long NL");
         person1.SetTitle("Product Manager");
         person1.SetWages(100);
     
