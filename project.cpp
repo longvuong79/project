@@ -57,7 +57,7 @@ int main(){
         person3.SetWages(50);
 
     EmployeeInfo person4;
-        person4.SetName("Rita Nguyen");
+        person4.SetName("Huy NL");
         person4.SetTitle("Marketing");
         person4.SetWages(25);
     
